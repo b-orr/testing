@@ -1,2 +1,2 @@
 # testing
-Why you have make changes on master branch?
+Hello This one is normal testing message.
